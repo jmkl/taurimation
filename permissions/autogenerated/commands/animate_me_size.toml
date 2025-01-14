@@ -1,0 +1,13 @@
+# Automatically generated - DO NOT EDIT!
+
+"$schema" = "../../schemas/schema.json"
+
+[[permission]]
+identifier = "allow-animate-me-size"
+description = "Enables the animate_me_size command without any pre-configured scope."
+commands.allow = ["animate_me_size"]
+
+[[permission]]
+identifier = "deny-animate-me-size"
+description = "Denies the animate_me_size command without any pre-configured scope."
+commands.deny = ["animate_me_size"]
